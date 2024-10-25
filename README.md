@@ -91,6 +91,3 @@ lib/
   └── utils/                   # Utility functions (e.g., date formatting, API handling)
 ```
 
-## Contributors
-
-- **Abdelrahman Wael** - [GitHub Profile](https://github.com/AbdoJoker99)
