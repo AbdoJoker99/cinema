@@ -85,9 +85,7 @@ lib/
   ├── screens/                 # App screens (Home, MovieSearch, MovieDetails, Watchlist, etc.)
   ├── widgets/                 # Custom widgets (MovieItem, WatchlistItem, etc.)
   ├── models/                  # Data models (Movie, Watchlist)
-  ├── services/                # API services for movie database integration
-  ├── theme/                   # Light and dark theme files
-  ├── localization/            # Localization resources for multi-language support
+  ├── services/                # API services for movie database integratio
   └── utils/                   # Utility functions (e.g., date formatting, API handling)
 ```
 
