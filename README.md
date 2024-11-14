@@ -9,8 +9,6 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Folder Structure](#folder-structure)
-- [Localization](#localization)
-- [Theming](#theming)
 - [Contributors](#contributors)
   
 ## Overview
